@@ -1,7 +1,7 @@
 # Review Sherlock version 1.0.2
 
 <p align="center">
-<img src="http://www.rbcafe.com/wp-content/uploads/img_rsf_272.png" alt="Review Sherlock">
+<img src="https://www.rbcafe.com/wp-content/uploads/img_rsf_272.png" alt="Review Sherlock">
 </p>
 
 - Addition of the “data mining” window.
