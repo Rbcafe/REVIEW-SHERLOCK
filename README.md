@@ -16,6 +16,6 @@ Review Sherlock is your software to analyze all the reviews posted on the App St
 
 ## More information 
 
-http://www.rbcafe.com/software/review-sherlock/
+https://www.rbcafe.com/software/review-sherlock/
 
 https://www.reviewsherlock.com
